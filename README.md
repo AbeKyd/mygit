@@ -1,2 +1,4 @@
 # mygit
-just git
+hello,my friends!
+
+I'm AbeKyd.
